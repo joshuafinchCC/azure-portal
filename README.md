@@ -3,7 +3,7 @@
 </p>
 
 <h1 align = "center">Azure Portal Basics</h1>
-This tutorial covers the creation and management of Resource Groups, Virtual machines
+This tutorial covers the creation and management of various Azure services such as <b>Resource Groups and Storage Accounts</b>. Resource groups are the basis for which all your other projects are created within Azure.
 
 <br />
 
@@ -16,36 +16,37 @@ This tutorial covers the creation and management of Resource Groups, Virtual mac
   </ul>
   Creating a new account comes with $200 of credits on you free subscription, more than enough to play around with all the guides listed here!
 </ul>
-<h2>Essentials</h2>
+<h2>Essentials:</h2>
 
-<h3>Navigating Azure Portal</h3>
-
+<h3>Portal Navigation</h3>
 <p>
   <ul>
-  <li>Upon logging into Azure Portal, the first page you should see is always the <b>Home Page</b></li> 
-  <li>The Home Page offer multiple ways to access the Azure Portal's resources, one being the <b>Search Bar</b> at the top center and notable headings</li>
-    <ul>
-      <li><b>Azure Services</b> - The Services in Azure Portal that updates with most recent Resources used; all of Azure Portal's Services can be located on a seperate page by going to <i>More Services</i></li>
-      <li><b>Resources</b> - A listing that displays and updates whenever Resources (<i>Resource Groups, Virtual Machines, Network Security Groups, etc.</i>) are created or recently modified</li>
-      <li><b>Navigate</b> - A quality of life heading allowing users to easily navigate to the essentials of their account, notably Resources and Subscriptions</li>
-      <li><b>Tools</b> - Heading that offers quick links to the infastructure and cost of the resources used in Azure as well as the online course <b>Microsoft Learn</b> for further education how to use Microsoft Azure</li>
-      <li><img src ="https://github.com/ColtonTrauCC/azure-portal/assets/147654000/0efa1c1f-76d3-48ce-82a9-a86872e80418" width = 80% height = 80% /></li>
-    </ul>
+  <li>After creating your account and logging into the <b>Azure Portal Home Page</b> you will see several ways of navigating your resources.</li> 
+
+![image](https://github.com/joshuafinchCC/azure-portal/assets/155266044/60751ff9-3d68-4ae3-91ef-ef63b8645f6e)
+
+<p>
+</ul>
+      <li><b>The Search Bar or Azure Resource Icons</b> can be used to locate and create your first projects.</i></li>
+      <li><b>Resources</b> - This Section displays all your most recently created resources (<i>Resource Groups, Virtual Machines, Network Security Groups, etc.</i>) as well as any project recently updated/modified.</li>
+
   </ul>
 </p>
-
 <br/>
-
 <h3>Creating a Resource Group</h3>
 
 <p>
   <ul>
-    <li>Resource Groups serves as the base for many of Microsoft Azure's services and tools. To use Virtual Machines or Network Security Groups, you need a Resource Group.</li>
-    <li>Head to the <b>Resource groups</b> page and click on <b>create</b></li>
-    <li>Resource Groups have 3 fields for creation</li>
-    <ul>
-      <li><b>Basics</b> - Tab where you enter the name of your Resource Group and <b>Subscription</b> it is linked to for billing upon the use of Resources in that Group</li>
-      <li><b>Tags</b> - Simple organizational tool for managing resources and view consolidated billing by applying the same tag to multiple resources and resource groups</li>
+    <li>On the main Azure Portal, Search either <b>Resource Groups</b>  or click the Resource Groups Icon. Afterwards, click create. </li>
+  </ul>
+
+![image](https://github.com/joshuafinchCC/azure-portal/assets/155266044/6768d7f7-24a7-43ce-bd32-2638429a6145)
+
+  
+ <ul>
+    <li>Resource Groups have three fields for creation.</li>
+    <li><b>Basics</b> - This is where you select your <b>Subscription</b> (default created upon subscription) and you name your group. The region is where this group is based.</li>
+      <li><b>Tags</b> -A Simple organizational tool for managing resources by applying the same tag to multiple resources and resource groups.</li>
       <li><b>Review + Create</b> - Validation processing to check if credentials (notably a name) are filled and the Subscription is usable</li>
     </ul>
     <li>After validation passed, click on <b>Create</b> in the bottom and your Resource Group is created. Note: based on server speed and Internet connection, Resources and Resource Groups will take some time to deploy, take note of the <b>notification bell</b> at the top right to see when deployment is complete</li>
