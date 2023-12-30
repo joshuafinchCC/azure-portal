@@ -2,29 +2,20 @@
 <img src="https://github.com/ColtonTrauCC/vm-network/assets/147654000/2cb238ff-4e46-4a75-8967-7ef5d124ab74" height="15%" width="15%" alt="Microsoft Azure logo"/>
 </p>
 
-<h1 align = "center">Basics of Azure Portal</h1>
-This tutorial goes over how to use Microsoft Azure Portal as well as how to create/manage Resource Groups and Storage Accounts within Azure Portal.
+<h1 align = "center">Azure Portal Basics</h1>
+This tutorial covers the creation and management of Resource Groups, Virtual machines
 
 <br />
 
-<h2>Environments and Technologies Used</h2>
-
-<ul>
-  <li>Microsoft Azure Portal</li>
-</ul>
-
-</br>
 
 <h2>List of Prerequisites</h2>
 <ul>
   <li>Microsoft Azure Account and Subscription</li>
   <ul>
-    <li><a href ="https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/mca-section-invoice#link-a-new-subscription">Free $200 Subscription Here</a></li>
+    <li><a href ="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_CjwKCAiAnL-sBhBnEiwAJRGignR4_uWjL2YXh4iV2JXqrqL51NmTGyR6au_yGopLcqholZVLIHKPzRoCZMIQAvD_BwE_k_&OCID=AIDcmmfq865whp_SEM__k_CjwKCAiAnL-sBhBnEiwAJRGignR4_uWjL2YXh4iV2JXqrqL51NmTGyR6au_yGopLcqholZVLIHKPzRoCZMIQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAnL-sBhBnEiwAJRGignR4_uWjL2YXh4iV2JXqrqL51NmTGyR6au_yGopLcqholZVLIHKPzRoCZMIQAvD_BwE">Create your free Azure account</a></li>
   </ul>
+  Creating a new account comes with $200 of credits on you free subscription, more than enough to play around with all the guides listed here!
 </ul>
-
-<br />
-
 <h2>Essentials</h2>
 
 <h3>Navigating Azure Portal</h3>
