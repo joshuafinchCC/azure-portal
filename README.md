@@ -3,7 +3,7 @@
 </p>
 
 <h1 align = "center">Azure Portal Basics</h1>
-This tutorial covers the creation and management of various Azure services such as <b>Resource Groups and Storage Accounts</b>. Resource groups are the basis for which all your other projects are created within Azure.
+This tutorial covers the creation and management of various Azure services such as <b>Resource Groups and Storage Accounts</b>. Resource groups are the basis for which all your other projects are created within Azure
 
 <br />
 
@@ -14,21 +14,21 @@ This tutorial covers the creation and management of various Azure services such 
   <ul>
     <li><a href ="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_CjwKCAiAnL-sBhBnEiwAJRGignR4_uWjL2YXh4iV2JXqrqL51NmTGyR6au_yGopLcqholZVLIHKPzRoCZMIQAvD_BwE_k_&OCID=AIDcmmfq865whp_SEM__k_CjwKCAiAnL-sBhBnEiwAJRGignR4_uWjL2YXh4iV2JXqrqL51NmTGyR6au_yGopLcqholZVLIHKPzRoCZMIQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAnL-sBhBnEiwAJRGignR4_uWjL2YXh4iV2JXqrqL51NmTGyR6au_yGopLcqholZVLIHKPzRoCZMIQAvD_BwE">Create your free Azure account</a></li>
   </ul>
-  Creating a new account comes with $200 of credits on you free subscription, more than enough to play around with all the guides listed here!
+  Creating a new account comes with $200 of credits on you free subscription, more than enough to play around with all the guides listed here
 </ul>
 <h2>Essentials:</h2>
 
 <h3>Portal Navigation</h3>
 <p>
   <ul>
-  <li>After creating your account and logging into the <b>Azure Portal Home Page</b> you will see several ways of navigating your resources.</li> 
+  <li>After creating your account and logging into the <b>Azure Portal Home Page</b> you will see several ways of navigating your resources</li> 
 
 ![image](https://github.com/joshuafinchCC/azure-portal/assets/155266044/60751ff9-3d68-4ae3-91ef-ef63b8645f6e)
 
 <p>
 </ul>
-      <li><b>The Search Bar or Azure Resource Icons</b> can be used to locate and create your first projects.</i></li>
-      <li><b>Resources</b> - This Section displays all your most recently created resources (<i>Resource Groups, Virtual Machines, Network Security Groups, etc.</i>) as well as any project recently updated/modified.</li>
+      <li><b>The Search Bar or Azure Resource Icons</b> can be used to locate and create your first projects</i></li>
+      <li><b>Resources</b> - This Section displays all your most recently created resources (<i>Resource Groups, Virtual Machines, Network Security Groups, etc.</i>) as well as any project recently updated/modified</li>
 
   </ul>
 </p>
