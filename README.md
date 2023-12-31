@@ -14,7 +14,7 @@ This tutorial covers the creation and management of various Azure services such 
   <ul>
     <li><a href ="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_CjwKCAiAnL-sBhBnEiwAJRGignR4_uWjL2YXh4iV2JXqrqL51NmTGyR6au_yGopLcqholZVLIHKPzRoCZMIQAvD_BwE_k_&OCID=AIDcmmfq865whp_SEM__k_CjwKCAiAnL-sBhBnEiwAJRGignR4_uWjL2YXh4iV2JXqrqL51NmTGyR6au_yGopLcqholZVLIHKPzRoCZMIQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAnL-sBhBnEiwAJRGignR4_uWjL2YXh4iV2JXqrqL51NmTGyR6au_yGopLcqholZVLIHKPzRoCZMIQAvD_BwE">Create your free Azure account</a></li>
   </ul>
-  Creating a new account comes with $200 of credits on you free subscription, more than enough to play around with all the guides listed here
+  Creating a new account comes with $200 of credits on your free subscription, more than enough to play around with all the guides listed here
 </ul>
 <h2>Essentials:</h2>
 
@@ -49,9 +49,10 @@ This tutorial covers the creation and management of various Azure services such 
       <li><b>Tags</b> -A Simple organizational tool for managing resources by applying the same tag to multiple resources and resource groups</li>
       <li><b>Review + Create</b> - Validation processing to check if credentials (notably a name) are filled and the Subscription is usable</li>
     </ul>
-    <li>After validation passed, click on <b>Create</b> in the bottom and your Resource Group is created. Note: based on server speed and Internet connection, Resources and Resource Groups will take some time to deploy, take note of the <b>notification bell</b> at the top right to see when deployment is complete</li>
+   After validation passed, click on <b>Create</b> in the bottom and your Resource Group is created. Note: based on server speed and Internet connection, Resources and Resource Groups will take some time to deploy, take note of the <b>notification bell</b> at the top right to see when deployment is complete
 
-![Screenshot 2023-12-30 174438](https://github.com/joshuafinchCC/azure-portal/assets/155266044/24db35c2-e3ac-4bf6-856f-7671a30bb28d)
+![Screenshot 2023-12-30 174449](https://github.com/joshuafinchCC/azure-portal/assets/155266044/0934b3e8-7ab5-4be1-a0ef-6284001cf058)
+
 
 </p>
 
