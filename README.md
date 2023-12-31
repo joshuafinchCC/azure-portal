@@ -105,10 +105,11 @@ After inputting and validating your information, click on <b>Create</b> to creat
 
 <p>
   <ul>
-    <li>If no longer used, it is best to delete Resource Groups and it Resource to prevent billing from stacking up.</li>
-    <li>Head to the Resource Group and select <b>Delete</b> to open a window on the right. Deletion of the Resource Group require verification by entering its name, it's also convenient since it deletes all resources in that group</li>
-    <ul>
-      <li><img src ="https://github.com/ColtonTrauCC/azure-portal/assets/147654000/6d0f216d-f7fb-4409-98d0-aa7bb4d9c7b6"/></li>
-    </ul>
+    <li>Azure Portal charges your subscription based off the resources you have created, varying depending on the intensity of whats being used. All the storage accounts, virtual machines and networks you create are calculated upon validation, so a good thing to get into the habit of doing is to clean up your resources when you are done!</li>
+    <li>As everything we have created in this tutorial is within one resource group, deleting the group will delete everything inside of it</li>
+  
+  ![image](https://github.com/joshuafinchCC/azure-portal/assets/155266044/81becd36-cc77-48fd-934c-17146f861811)
   </ul>
-</p>
+
+   <li>To finish, simply select "Delete resource group" on the toolbar and enter your resource group name
+
