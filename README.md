@@ -83,14 +83,20 @@ This tutorial covers the creation and management of various Azure services such 
 After inputting and validating your information, click on <b>Create</b> to create the resource and wait for deployment to finish
 
   ![Screenshot 2023-12-30 180808](https://github.com/joshuafinchCC/azure-portal/assets/155266044/942d7e83-1112-457b-b3e4-8e6628a3a41b)
-    <li>Now to store data in the Storage Account, we need to create a <b>container</b> by going to the Storage Account you made and navigating to <b>Containers</b> under <b>Data Storage</b>. Click on <b>(Plus Sign) Container</b> and enter information in the window on the right</li>
+    <li>To store data in the Storage Account, we need to create a <b>container</b> by navigating to <b>Containers</b> under <b>Data Storage</b>. Click on <b>(+) Container</b> and enter the name in the New Container window on the right</li>
     <ul>
       
 
+![image](https://github.com/joshuafinchCC/azure-portal/assets/155266044/dca51448-d9bc-4bc3-9517-b3f1d48de355)
+
       
    </ul>
-    <li>Through here it's self explanitory as you use the <b>Upload</b> icon in the container to upload files in selected container. If your file is a coding language or txt file, you can edit its information through Azure</li>
+    <li>After you create the container within your Storage Account, simply select that container and click upload </li>
   </ul>
+
+![image](https://github.com/joshuafinchCC/azure-portal/assets/155266044/ea2e0c82-adf2-4dc3-b530-b7e9e7e26c1d)
+
+  
 </p>
 
 <br />
