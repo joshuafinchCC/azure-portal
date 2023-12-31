@@ -62,12 +62,15 @@ This tutorial covers the creation and management of various Azure services such 
 
 <p>
   <ul>
-    <li>The <b>Storage Account</b> is a Resource in Microsoft Azure that serves as a general 500 TB storage unit for data in the cloud, more information <a href ="https://azure.microsoft.com/en-us/products/category/storage/">here</a></li>
-    <li>First, have a simple image or txt file on hand for uploading</li>
-    <li>Head to the <b>Storage account</b> page and click on <b>create</b></li>
-    <li>Storage Accounts have multiple fields for creation</li>
+    <li>The <b>Storage Account</b> is a Resource in Microsoft Azure that serves as a general 500 TB storage unit for data in the cloud</li>
+    <li>Head to the <b>Storage account</b> icon on the home portal and click on <b>create</b></li>
+
+![Screenshot 2023-12-30 180058](https://github.com/joshuafinchCC/azure-portal/assets/155266044/ee09b964-43a8-4de3-ab79-8d07a194730d)
+
+    
+  <li>Storage Accounts have multiple fields for creation</li>
     <ul>
-      <li><b>Basics</b> - What Resourc Group the Resource will be in and instance details for the name of the storage account and determining performance</li>
+      <li><b>Basics</b> - What Resource Group the storage account will be in, the name, as well as determining the region and performance</li>
       <li><b>Advanced</b> - Offers more complex options such as adjusting the security and protocols; some options are not available depending on your storage account's instance details from Basics</li>
       <li><b>Networking</b> - Connectivity and Routing options</li>
       <li><b>Data Protection</b> - Enables how data is recovered and tracked in storage</li>
