@@ -44,16 +44,15 @@ This tutorial covers the creation and management of various Azure services such 
 
   
  <ul>
-    <li>Resource Groups have three fields for creation.</li>
-    <li><b>Basics</b> - This is where you select your <b>Subscription</b> (default created upon subscription) and you name your group. The region is where this group is based.</li>
-      <li><b>Tags</b> -A Simple organizational tool for managing resources by applying the same tag to multiple resources and resource groups.</li>
+    <h3 align = "center">Resource Groups have three fields for creation</h3>
+    <li><b>Basics</b> - This is where you select your <b>Subscription</b> (default created upon subscription) and name the group. The region is where this group is based</li>
+      <li><b>Tags</b> -A Simple organizational tool for managing resources by applying the same tag to multiple resources and resource groups</li>
       <li><b>Review + Create</b> - Validation processing to check if credentials (notably a name) are filled and the Subscription is usable</li>
     </ul>
     <li>After validation passed, click on <b>Create</b> in the bottom and your Resource Group is created. Note: based on server speed and Internet connection, Resources and Resource Groups will take some time to deploy, take note of the <b>notification bell</b> at the top right to see when deployment is complete</li>
-    <ul>
-      <li><img src ="https://github.com/ColtonTrauCC/azure-portal/assets/147654000/523ad6cf-b830-4a49-9970-3d9edcf99171" width = 80% height = 80% /></li>
-    </ul>
-  </ul>
+
+![Screenshot 2023-12-30 174438](https://github.com/joshuafinchCC/azure-portal/assets/155266044/24db35c2-e3ac-4bf6-856f-7671a30bb28d)
+
 </p>
 
 <br />
