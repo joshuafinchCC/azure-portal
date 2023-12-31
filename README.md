@@ -111,5 +111,5 @@ After inputting and validating your information, click on <b>Create</b> to creat
   ![image](https://github.com/joshuafinchCC/azure-portal/assets/155266044/81becd36-cc77-48fd-934c-17146f861811)
   </ul>
 
-   <li>To finish, simply select "Delete resource group" on the toolbar and enter your resource group name
+   <li>To finish, simply select "Delete resource group" on the toolbar and enter your resource group name. Your Notifications bell on the right will keep you updated on the deletion status, and once it is complete you can navigate to the <b>Azure Home Portal</b> and find your resource groups tab empty!
 
