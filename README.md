@@ -71,18 +71,24 @@ This tutorial covers the creation and management of various Azure services such 
   <li>Storage Accounts have multiple fields for creation</li>
     <ul>
       <li><b>Basics</b> - What Resource Group the storage account will be in, the name, as well as determining the region and performance</li>
-      <li><b>Advanced</b> - Offers more complex options such as adjusting the security and protocols; some options are not available depending on your storage account's instance details from Basics</li>
-      <li><b>Networking</b> - Connectivity and Routing options</li>
+      <li><b>Advanced</b> - Offers more complex options such as adjusting the security and protocols; some options are not available depending on your storage account's details from basics</li>
+      <li><b>Networking</b> - Connectivity and routing options</li>
       <li><b>Data Protection</b> - Enables how data is recovered and tracked in storage</li>
-      <li><b>Encryption</b> - Determines how data is encrpted, uses Microsoft-managed keys by default</li>
-      <li><b>Tags</b> - Same as creation of tags in Resource Group creation</li>
-      <li><b>Review</b> - checking validation and overview of the Resource's information</li>
+      <li><b>Encryption</b> - Determines how data is encrypted, uses Microsoft-managed keys by default</li>
+      <li><b>Tags</b> - Same organizational tool as the Resource Groups creation</li>
+      <li><b>Review</b> - General overview of your storage account's details and settings before validation and creation</li>
     </ul>
-    <li>After inputting information, click on <b>Create</b> to create the resource and wait for deployment to finish</li>
+    </p>
+    
+After inputting and validating your information, click on <b>Create</b> to create the resource and wait for deployment to finish
+
+  ![Screenshot 2023-12-30 180808](https://github.com/joshuafinchCC/azure-portal/assets/155266044/942d7e83-1112-457b-b3e4-8e6628a3a41b)
     <li>Now to store data in the Storage Account, we need to create a <b>container</b> by going to the Storage Account you made and navigating to <b>Containers</b> under <b>Data Storage</b>. Click on <b>(Plus Sign) Container</b> and enter information in the window on the right</li>
     <ul>
-      <li><img src= "https://github.com/ColtonTrauCC/azure-portal/assets/147654000/ff9d532a-eb33-4a0f-a9be-709cd8a5b06b" /></li>
-    </ul>
+      
+
+      
+   </ul>
     <li>Through here it's self explanitory as you use the <b>Upload</b> icon in the container to upload files in selected container. If your file is a coding language or txt file, you can edit its information through Azure</li>
   </ul>
 </p>
